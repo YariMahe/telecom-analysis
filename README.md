@@ -11,7 +11,7 @@ Este repositorio contiene el análisis realizado durante el Sprint 7 del caso de
 
 ## 📝 Etapas del análisis 
   1. Cargar y explorar los datasets: plans, users_latam y usage.
-  2. Identificar problemas en la calidad de los datos: revisar nulos, inválidos y sentineles.
+  2. Identificar problemas en la calidad de los datos: revisar nulos, inválidos y sentinels.
   3. Revisar y estandarizar fechas: dar formato a tipo fecha e identificar años fuera de rango.
   4. Corregir sentinels y fechas imposibles: reemplazar, en este caso, la edad con la mediana y catalogar sentinels como NA, así como las fechas fuera de rango.
   5. Decidir que hacer con los valores nulos: según la proporción y relevancia elegir que hacer con estos datos y justificar la decisión.
